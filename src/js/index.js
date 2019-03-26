@@ -9,7 +9,6 @@ import Likes from "./models/likes";
 import * as likeView from "./views/likesView";
 
 const state={};
-window.state=state;
 /*
 ******SEARCH CONTROLLER********
 */
